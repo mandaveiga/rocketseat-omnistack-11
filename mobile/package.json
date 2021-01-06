@@ -12,7 +12,7 @@
     "@react-navigation/native": "^5.1.5",
     "@react-navigation/stack": "^5.2.10",
     "@unimodules/react-native-adapter": "^5.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "expo-mail-composer": "~8.1.0",
     "react": "~16.9.0",
